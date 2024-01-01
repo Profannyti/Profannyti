@@ -1,5 +1,5 @@
 
-  <h1>Hello, I'm Raghav Vij</h1> 
+  <h1>Hey, I'm Raghav Vij</h1> 
   A Full-stack Developer. I like to design things from scratch and enjoy bringing ideas to life. 
   <br></br>
   Looking for work and projects where I am able to apply my experience and knowledge and have opportunities to learn, develop and progress my career. Passionate about Web3. Perpetually       
