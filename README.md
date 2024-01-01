@@ -1,9 +1,9 @@
 
   <h1>Hey, I'm Raghav Vij</h1> 
-  A Full-stack Developer. I like to design things from scratch and enjoy bringing ideas to life. 
+  Your friendly neighborhood Full-stack Developer! I get a kick out of creating things from scratch and turning cool ideas into reality. 
   <br></br>
-  Looking for work and projects where I am able to apply my experience and knowledge and have opportunities to learn, develop and progress my career. Passionate about Web3. Perpetually       
-  working on improving my skills.
+  Actively seeking opportunities for collaboration and engagement on projects where I can contribute my extensive experience and knowledge.
+  My enthusiasm for Web3 is unwavering, and I am perpetually dedicated to refining my skill set.
 
 <br></br>
 
