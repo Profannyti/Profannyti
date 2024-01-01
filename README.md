@@ -1,4 +1,4 @@
-![MasterHead](https://wallpaperaccess.com/full/5927911.gif)
+![MasterHead](https://cdnb.artstation.com/p/assets/images/images/053/358/841/original/jake-comingheremoreoftenlately.gif?1662021666)
 <h1>Hey, I'm Raghav Vij</h1> 
 Your friendly neighborhood Full-stack Developer! I get a kick out of creating things from scratch and turning cool ideas into reality. 
 <br></br>
