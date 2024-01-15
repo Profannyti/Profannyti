@@ -24,7 +24,7 @@ My enthusiasm for Web3 is unwavering, and I am perpetually dedicated to refining
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 <img width="12" />
-<img src="https://www.svgrepo.com/show/374056/rust.svg" height="40" alt="rust logo"  />
+<img src="https://www.svgrepo.com/show/374088/solidity.svg" height="40" alt="solidity logo"  />
 
 </div>
 
