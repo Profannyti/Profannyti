@@ -4,7 +4,10 @@
 <!--https://in.cdgdbentre.edu.vn/lofi-wallpaper-gif-zxwishwu/-->
 <!--https://www.artstation.com/killer_rabbit_media-->
 <!--https://www.artstation.com/frogapples/albums/1043592-->
-<h1>Hey, I'm Raghav Vij</h1> 
+<div align="center">
+<h1>Hey, I'm Raghav Vij.</h1> 
+</div>
+
 Your friendly neighborhood Full-stack Developer! I get a kick out of creating things from scratch and turning cool ideas into reality. 
 <br></br>
 Actively seeking opportunities for collaboration and engagement on projects where I can contribute my extensive experience and knowledge.
