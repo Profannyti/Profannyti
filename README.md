@@ -21,37 +21,37 @@
     <h4>Languages & frameworks:</h4>
     <a href="https://www.python.org/"><img src="https://www.svgrepo.com/show/452091/python.svg" height="40" alt="python logo"></a>
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+    <a href = "https://en.wikipedia.org/wiki/JavaScript" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"></a>
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+    <a href = "https://react.dev/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/></a>
     <img width="12" />
-    <img src="https://www.svgrepo.com/show/452075/node-js.svg" height="40" alt="nodejs logo"  />
+    <a href = "https://nodejs.org/en" ><img src="https://www.svgrepo.com/show/452075/node-js.svg" height="40" alt="nodejs logo"  /></a>
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+    <a href = "https://www.typescriptlang.org/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/></a>
     <img width="12" />
-    <img src="https://www.svgrepo.com/show/374088/solidity.svg" height="40" alt="solidity logo"  />
+    <a href = "https://soliditylang.org/" ><img src="https://www.svgrepo.com/show/374088/solidity.svg" height="40" alt="solidity logo"/></a>
     <img width="12" />
-    <img src="https://www.renpy.org/static/index-logo.png" height="40" alt="Renpy logo"  />
+    <a href = "https://www.renpy.org/" ><img src="https://www.renpy.org/static/index-logo.png" height="40" alt="Renpy logo"/></a>
 </div>
 
 <!-- Other Technologies section -->
 <div align="center">
     <h4>Other Technologies:</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+    <a href = "https://git-scm.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/></a>
     <img width="12" />
-    <img src="https://www.svgrepo.com/show/354099/mysql.svg" height="40" alt="mysql logo"  />
+    <a href = "https://www.mysql.com/" ><img src="https://www.svgrepo.com/show/354099/mysql.svg" height="40" alt="mysql logo"/></a>
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+    <a href = "https://en.wikipedia.org/wiki/GitHub" ><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/></a>
 </div>
 
 <!-- Styling and design section -->
 <div align="center">
     <h4>Styling and design:</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+    <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /></a>
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+    <a href = "https://www.figma.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /></a>
     <img width="12" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40" alt="photoshop logo"  />
+    <a href = "https://www.adobe.com/products/photoshop.html" ><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40" alt="photoshop logo"  /></a>
 </div>
 
 
