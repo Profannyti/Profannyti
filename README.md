@@ -15,6 +15,7 @@
 
 <br><br/>
 
+
 <!-- Languages & Frameworks section -->
 <div align="center">
     <h4>Languages & frameworks:</h4>
@@ -29,6 +30,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
     <img width="12" />
     <img src="https://www.svgrepo.com/show/374088/solidity.svg" height="40" alt="solidity logo"  />
+    <img width="12" />
+    <img src="https://www.renpy.org/static/index-logo.png" height="40" alt="Renpy logo"  />
 </div>
 
 <!-- Other Technologies section -->
