@@ -19,7 +19,7 @@
 <!-- Languages & Frameworks section -->
 <div align="center">
     <h4>Languages & frameworks:</h4>
-    <img src="https://www.svgrepo.com/show/452091/python.svg" height="40" alt="python logo"  />
+    <a href="https://www.python.org/"><img src="https://www.svgrepo.com/show/452091/python.svg" height="40" alt="python logo"></a>
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
     <img width="12" />
