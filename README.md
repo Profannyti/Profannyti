@@ -7,13 +7,13 @@
 
 <!-- Introduction -->
 <p align="center">
-    Your friendly neighborhood Full-stack Developer! I get a kick out of creating things from scratch and turning cool ideas into reality. 
+    Your friendly neighborhood Developer! I get a kick out of creating things from scratch and turning cool ideas into reality. 
     <br></br>
     Actively seeking opportunities for collaboration and engagement on projects where I can contribute my extensive experience and knowledge.
     My enthusiasm for Web3 is unwavering, and I am perpetually dedicated to refining my skill set.
 </p>
 
-
+<br/>
 
 <!-- Languages & Frameworks section -->
 <div align="center">
