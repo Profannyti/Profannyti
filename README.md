@@ -13,7 +13,6 @@
     My enthusiasm for Web3 is unwavering, and I am perpetually dedicated to refining my skill set.
 </p>
 
-<br><br/>
 
 
 <!-- Languages & Frameworks section -->
