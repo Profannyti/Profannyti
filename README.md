@@ -26,11 +26,14 @@
     <img width="12" />
     <a href = "https://nodejs.org/en" ><img src="https://www.svgrepo.com/show/452075/node-js.svg" height="40" alt="nodejs logo"  /></a>
     <img width="12" />
+    <a href = "https://tailwindcss.com/" ><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1632979765809/HTEigfQR-.png?auto=compress,format&format=webp" height="44" alt="tailwindcss logo"  /></a>
+    <img width="12" />
     <a href = "https://www.typescriptlang.org/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/></a>
     <img width="12" />
     <a href = "https://soliditylang.org/" ><img src="https://www.svgrepo.com/show/374088/solidity.svg" height="40" alt="solidity logo"/></a>
     <img width="12" />
     <a href = "https://www.renpy.org/" ><img src="https://www.renpy.org/static/index-logo.png" height="40" alt="Renpy logo"/></a>
+
 </div>
 
 <!-- Other Technologies section -->
